@@ -22,7 +22,7 @@ Download the **.alfredworkflow** file, doubleclick it and you are ready to bring
 ## The workflow
 ![Ypirqi workflow](https://www.dropbox.com/s/79rf46g1al4gb3g/workflow.png?dl=1)
 
-This workflow uses 2 miniscripts to “capture” the clipborad content and replace the vowels. Then, an Alfred action puts the modified content back to the clipboard ;)
+This workflow uses 2 miniscripts to “capture” the clipboard content and replace the vowels. Then, an Alfred action puts the modified content back to the clipboard ;)
 
 ### “Capture” the clipboard content
 ```applescript
